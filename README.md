@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adán Vera</h1>
 <h3 align="center">A frontend developer from Paraguay</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adanvera&label=Profile%20views&color=0e75b6&style=flat" alt="lambdaily" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adanvera&label=Profile%20views&color=0e75b6&style=flat" alt="adanvera" /> </p>
 
 - 🌱 I’m currently learning ... **React, React Native, Node**
 
@@ -30,5 +30,5 @@
     <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lambdaily&show_icons=true&locale=en" alt="lambdaily" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adanvera&show_icons=true&locale=en" alt="adanvera" /></p>
 
