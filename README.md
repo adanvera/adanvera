@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adán Vera</h1>
-<h3 align="center">I'm a software developer developer specialized in front-end development with over 4 years of experience in creating and maintaining web applications using technologies such as JavaScript, React.js, and Next.js, along with experience in backend technologies like Node.js and Nest. I also have knowledge of SQL/NoSQL databases and experience utilizing tools like Docker. 
+<h3 align="justify">I'm a software developer developer specialized in front-end development with over 4 years of experience in creating and maintaining web applications using technologies such as JavaScript, React.js, and Next.js, along with experience in backend technologies like Node.js and Nest. I also have knowledge of SQL/NoSQL databases and experience utilizing tools like Docker. 
 Passionate about developing intuitive and responsive user interfaces, with a strong focus on performance optimization and user experience. Skilled in collaborating with multidisciplinary teams to take projects from conceptualization to successful implementation.
 </h3>
 
