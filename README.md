@@ -3,6 +3,7 @@
 Passionate about developing intuitive and responsive user interfaces, with a strong focus on performance optimization and user experience. Skilled in collaborating with multidisciplinary teams to take projects from conceptualization to successful implementation.
 </h3>
 
+<h1 align="center"></h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adanvera&label=Profile%20views&color=0e75b6&style=flat" alt="adanvera" /> </p>
 
