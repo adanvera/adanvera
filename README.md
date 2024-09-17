@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adanvera&label=Profile%20views&color=0e75b6&style=flat" alt="adanvera" /> </p>
 
-- 🌱 I’m currently learning ... **React, React Native, Node**
+- 🌱 Always leraning and improving skills
 
 - 👨‍💻 👯 I’m looking to collaborate on Web Development projects
 
