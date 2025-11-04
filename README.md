@@ -1,22 +1,12 @@
-<h1 align="center">Hi 👋, I'm Adán Vera</h1>
-<h3 align="justify">
-Software Developer with over 5 years of experience in building and maintaining scalable, high-performance web solutions. Focused on the React.js, Next.js, and TypeScript ecosystem. Strong technical foundation in robust backends (Node.js, Nest.js) and experience integrating and optimizing services via APIs (GraphQL/REST). Proactive professional, passionate about innovation and collaborating in multidisciplinary teams.
-</h3>
-
-<h1 align="center"></h1>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adanvera&label=Profile%20views&color=0e75b6&style=flat" alt="adanvera" /> </p>
+<h1 align="start">Hey! Nice to see you.👋</h1>
+<p>
+  I'm Adán, Fullstack Developer from 
+  <img src="https://cdn-icons-png.flaticon.com/512/197/197376.png" width="13" alt="Paraguay flag" /> <b>Caaguazú, Paraguay</b>, currently living in 
+  <img src="https://cdn-icons-png.flaticon.com/512/197/197593.png" width="13" alt="Spain flag" /> <b>Córdoba, Spain</b>.
+</p>
 
 - 🌱 Always leraning and improving skills
-
 - 👨‍💻 👯 I’m looking to collaborate on Web Development projects
-
-- 📫 How to reach me **gustavoadanvera@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/adanvera/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adanvera/" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Things I code with</h3>
 <p>
@@ -31,4 +21,11 @@ Software Developer with over 5 years of experience in building and maintaining s
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+</p>
+
+<h3>Where to find me</h3>
+<p>
+  <a href="https://github.com/adanvera" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+  <a href="https://www.linkedin.com/in/adanvera" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:gustavoadanvera@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
